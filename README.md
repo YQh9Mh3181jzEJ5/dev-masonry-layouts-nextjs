@@ -1,5 +1,7 @@
 # 📸 PicturePalette
 
+![cover](https://github.com/user-attachments/assets/aeb74ec6-4789-43f8-a126-3ea55b0eb896)
+
 ## 🌟 概要
 
 このアプリは、Unsplash API を使用して画像を検索し、マソンリー（石積み）レイアウトで表示する Next.js アプリケーションです。
@@ -22,7 +24,6 @@
 - MUI (Material-UI) (v6.0.2)
 - React Query (v5.55.0)
 - Axios (v1.7.7)
-- next-themes (v0.3.0)
 - Biome (v1.8.3)
 
 ## 🙏 提供
