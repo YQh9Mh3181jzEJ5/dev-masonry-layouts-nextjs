@@ -19,7 +19,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Unsplash Image Researcher",
+  title: "PicturePalette",
   description: "Search your images from Unsplash",
 };
 
