@@ -15,6 +15,9 @@ export function usePhotoSearch() {
         return allPages.length + 1;
       },
       enabled: !!searchQuery,
+      staleTime: 1000 * 60 * 5,
+      refetchOnWindowFocus: false,
+      refetchOnMount: false,
     });
 
   const handleSearch = (event: React.FormEvent) => {
