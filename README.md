@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📸 PicturePalette
 
-## Getting Started
+## 🌟 概要
 
-First, run the development server:
+このアプリは、Unsplash API を使用して画像を検索し、マソンリー（石積み）レイアウトで表示する Next.js アプリケーションです。
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [アプリを見る](https://dev-masonry-layouts-nextjs.vercel.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 主な機能
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🔍 キーワードによる画像検索
+- 🖼️ 石積みレイアウトでの画像表示
+- 🌓 ダークモード対応
+- 📱 レスポンシブデザイン
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ 使用技術
 
-## Learn More
+- Next.js (v14.2.8)
+- React (v18.3.1)
+- TypeScript (v5)
+- Tailwind CSS (v3.4.1)
+- MUI (Material-UI) (v6.0.2)
+- React Query (v5.55.0)
+- Axios (v1.7.7)
+- next-themes (v0.3.0)
+- Biome (v1.8.3)
 
-To learn more about Next.js, take a look at the following resources:
+## 🙏 提供
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Unsplash](https://unsplash.com/) - 美しい無料画像の提供
+- [Vercel](https://vercel.com/) - ホスティングとデプロイメント
